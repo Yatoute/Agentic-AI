@@ -5,4 +5,4 @@
 .venv
 
 # Building
-src/webagent
+src/webagent/.
