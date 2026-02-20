@@ -3,3 +3,6 @@
 
 # Virtuel env
 .venv
+
+# Building
+src/webagent
